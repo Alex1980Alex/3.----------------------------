@@ -12,6 +12,12 @@
 			<ContextMenu name="НомерКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="НомерРасширеннаяПодсказка" id="3"/>
 		</InputField>
+		<InputField name="Склад" id="38">
+			<DataPath>Объект.Склад</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="СкладКонтекстноеМеню" id="39"/>
+			<ExtendedTooltip name="СкладРасширеннаяПодсказка" id="40"/>
+		</InputField>
 		<InputField name="Дата" id="4">
 			<DataPath>Объект.Date</DataPath>
 			<EditMode>EnterOnInput</EditMode>

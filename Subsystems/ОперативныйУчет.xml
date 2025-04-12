@@ -27,6 +27,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Контрагенты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.ВидыНоменклатуры</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.КурсыВалют</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Склад</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
